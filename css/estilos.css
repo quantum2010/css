@@ -1,0 +1,13 @@
+body{
+	background-color: Black;
+	color: white!important;
+	font-family: Verdana;
+}
+div{
+	margin-top: 20px;
+	margin-left: 200px;
+}
+body
+{color:red;}
+p
+{color:green;}

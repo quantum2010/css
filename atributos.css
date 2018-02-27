@@ -1,11 +1,11 @@
 h1{
   color:blue;
-  font-family:cursive;
+  font-family: arial;
 }
 p
 {
   color:brown;
   font-family: helvetica;
   font-style: italic;
-  font-size: 12px;
+  font-size: 11px;
 }
